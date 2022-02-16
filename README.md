@@ -1,6 +1,8 @@
 # Bug Analysis Web App
 
-## Required Python Libraries to use this repository :
+<hr>
+
+### Required Python Libraries to use this repository :
 
 1. OS
 2. CSV
@@ -8,7 +10,7 @@
 4. SQLite3
 5. Flask
 
-## Steps to use this repository :
+### Steps to use this repository :
 
 1. Store the all input CSV files in Input directory
 2. Install all the required python libraries which is listed above.
@@ -23,7 +25,7 @@
 
 <hr>
 
-### Create a new repository
+##### Create a new repository
 
 - git clone https://gitlab.com/mugunthanraju/bug-analysis-web-app.git
 - cd bug-analysis-web-app
@@ -35,7 +37,7 @@
 
 <br>
 
-### Push an existing folder
+##### Push an existing folder
 
 - cd existing_folder
 - git init --initial-branch=main
@@ -46,7 +48,7 @@
 
 <br>
 
-### Push an existing Git repository
+##### Push an existing Git repository
 
 - cd existing_repo
 - git remote rename origin old-origin
