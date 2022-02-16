@@ -21,6 +21,8 @@
 <br>
 <br>
 
+<hr>
+
 ### Create a new repository
 
 - git clone https://gitlab.com/mugunthanraju/bug-analysis-web-app.git
